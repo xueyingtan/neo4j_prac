@@ -1,0 +1,4 @@
+.env
+public/*.json
+node_modules
+images
